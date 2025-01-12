@@ -1,3 +1,7 @@
+# Project 
+scripts/data/sf-fire-incidents.parquet
+scripts/data/sf-fire-incidents.csv
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -169,3 +173,4 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+scripts/.DS_Store
