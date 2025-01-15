@@ -174,3 +174,4 @@ cython_debug/
 # PyPI configuration file
 .pypirc
 scripts/.DS_Store
+scripts/data/1.csv
